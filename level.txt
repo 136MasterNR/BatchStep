@@ -1,0 +1,13 @@
+50,arrow_left
+150,arrow_up
+250,arrow_down
+350,arrow_right
+400,arrow_down
+500,arrow_left
+650,arrow_right
+810,arrow_up
+810,arrow_down
+890,arrow_left
+890,arrow_right
+999,arrow_down
+1100,arrow_up
